@@ -8,6 +8,7 @@ Atualmente, esta interpretação de mutações genéticas está sendo feita
 manualmente. Esta é uma tarefa muito demorada, onde um patologista clínico tem 
 que revisar manualmente e classificar cada mutação genética com base em 
 evidências da literatura clínica baseada em texto.
+
 Para este projeto, o MSKCC (Memorial Sloan Kettering Cancer Center) está 
 disponibilizando uma base de conhecimento anotada por especialistas, onde 
 pesquisadores e oncologistas de nível mundial anotaram manualmente milhares 
