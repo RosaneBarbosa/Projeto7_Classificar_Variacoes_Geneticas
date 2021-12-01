@@ -1,5 +1,5 @@
 # Projeto7_Classificar_Variacoes_Geneticas
-Repositório do projeto em Python para criação de um modelo de Deep Learning que classifica automaticamente as variações genéticas de tumor cancerígeno.
+Repositório de projeto em Python para criação de um modelo de Deep Learning com Keras que classifica automaticamente as variações genéticas de tumor cancerígeno.
 
 Uma vez sequenciado, um tumor cancerígeno pode ter milhares de 
 mutações genéticas. O desafio é distinguir as mutações que contribuem para o 
